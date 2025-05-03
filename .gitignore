@@ -17,3 +17,4 @@ data_antiguo/most_frequent_names.csv
 data_antiguo/population.csv
 data_antiguo/transports.csv
 data_antiguo/unemployment.csv
+.venv
