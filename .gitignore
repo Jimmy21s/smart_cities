@@ -19,5 +19,6 @@ data_antiguo/transports.csv
 data_antiguo/unemployment.csv
 .venv
 dashboard_bcn.html
+escenarios_map.html
 *.zip
 
