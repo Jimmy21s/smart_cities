@@ -19,3 +19,5 @@ data_antiguo/transports.csv
 data_antiguo/unemployment.csv
 .venv
 dashboard_bcn.html
+*.zip
+
